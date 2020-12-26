@@ -9,5 +9,5 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" nodeAutoDelay="300" nodeUpdateOnChanges="true" updateFilesToCompile="true" />
+  <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" nodeAutoDelay="300" updateFilesToCompile="true" useJBChromeExtension="true" />
 </application>
